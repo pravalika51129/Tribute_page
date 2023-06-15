@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tribute to Swami Vivekananda</title>
+  <style>
+    body {
+      font-family: "Times New Roman",Times,Serif;
+      background-color:rgb(201,76,76,0.3);
+    }
+
+    #container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 30px;
+      background-color: #d5f4e6;
+      border: 1px solid #ccc;
+      border-radius: 7px;
+      box-shadow:5px 10px 8px #888888;
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+
+    img {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      height: auto;
+      border-radius: 5px;
+    }
+
+    p {
+      margin-bottom: 1px;
+      line-height: 1.3;
+    }
+
+    .quote {
+      font-style:italic;
+      margin-bottom: 20px;
+    }
+
+    .source {
+      text-align: right;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <h1>Tribute to Swami Vivekananda</h1>
+    <img src="C:\Users\manuk\Pictures\swamivivekananda.png" width="250" height="250">
+    <p
+      Swami Vivekananda (1863–1902) was an Indian monk, philosopher, and spiritual leader who played a key role in introducing the philosophies of Vedanta and Yoga to the Western world. Born as Narendra Nath Datta in Calcutta, he was inspired by his guru, Sri Ramakrishna, and dedicated his life to spreading the teachings of Hinduism and its universal message of harmony and spiritual enlightenment.
+    </p>
+    <p>
+      Swami Vivekananda represented India and Hinduism at the Parliament of the World's Religions held in Chicago in 1893. His powerful speech, which began with the famous words "Sisters and brothers of America," captured the attention of the audience and established him as a prominent voice for interfaith dialogue and religious tolerance.
+    </p>
+    <p class="quote">
+      "Arise, awake, and stop not until the goal is reached."
+    </p>
+    <p class="source">- Swami Vivekananda</p>
+    <p>
+      Throughout his life, Swami Vivekananda emphasized the importance of self-realization, service to humanity, and the unity of all religions. He founded the Ramakrishna Mission and the Ramakrishna Math, which continue to carry out various social, educational, and humanitarian activities worldwide.
+    </p>
+    <p>
+      Swami Vivekananda's teachings continue to inspire millions of people around the world, and his legacy as a spiritual luminary and advocate for social change remains unparalleled.
+    </p>
+  </div>
+</body>
+</html>
